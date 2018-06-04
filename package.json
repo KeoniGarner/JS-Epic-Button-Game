@@ -1,28 +1,23 @@
 {
-  "name": "JS-Counter",
+  "name": "JS-Epic-Button-Game",
   "version": "1.0.0",
-  "description": "Counter to practice session",
-  "main": "app.js",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "ejs": "^2.6.1",
-    "express": "^4.16.3",
-    "express-session": "^1.15.6",
-    "socket.io": "^2.1.1"
-  },
+  "description": "",
+  "main": "server.js",
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KeoniGarner/JS-Counter.git"
+    "url": "git+https://github.com/KeoniGarner/JS-Epic-Button-Game.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KeoniGarner/JS-Counter/issues"
+    "url": "https://github.com/KeoniGarner/JS-Epic-Button-Game/issues"
   },
-  "homepage": "https://github.com/KeoniGarner/JS-Counter#readme"
+  "homepage": "https://github.com/KeoniGarner/JS-Epic-Button-Game#readme"
 }
